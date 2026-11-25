@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自动记账</string>
+    <string name="notification_listener_label">自动记账 · 通知解析</string>
+    <string name="accessibility_service_label">自动记账 · 自动更新</string>
+    <string name="notification_listener_description">仅用于读取微信、支付宝的支付通知，解析单笔支出</string>
+    <string name="accessibility_service_description">仅在“信任模式”下使用：自动打开并读取微信 / 支付宝账单页的收支与余额，不会读取其它应用内容，也不会联网。</string>
+</resources>

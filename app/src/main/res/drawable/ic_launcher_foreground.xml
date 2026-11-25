@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 账本：面积缩小后的白色书页，横线用 evenOdd 镂空，适配任意背景色 -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M39,32 L69,32 A5,5 0 0 1 74,37 L74,71 A5,5 0 0 1 69,76 L39,76 A5,5 0 0 1 34,71 L34,37 A5,5 0 0 1 39,32 Z M38,40 L70,40 L70,43 L38,43 Z M38,49 L70,49 L70,52 L38,52 Z M38,58 L58,58 L58,61 L38,61 Z" />
+</vector>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ledger_background">#FFFBF5</color>
+    <color name="ic_launcher_background">#0B6E4F</color>
+    <color name="ic_launcher_bg_green">#0B6E4F</color>
+    <color name="ic_launcher_bg_blue">#1D5FA8</color>
+    <color name="ic_launcher_bg_purple">#6A4C93</color>
+    <color name="ic_launcher_bg_orange">#B4560A</color>
+    <color name="ic_launcher_bg_pink">#D81B60</color>
+    <color name="ic_launcher_bg_mono">#212121</color>
+</resources>

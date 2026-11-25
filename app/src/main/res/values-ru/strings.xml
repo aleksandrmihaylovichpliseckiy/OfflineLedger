@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Автоучёт</string>
+    <string name="notification_listener_label">Автоучёт · Разбор уведомлений</string>
+    <string name="notification_listener_description">Читает только уведомления об оплате WeChat / Alipay</string>
+    <string name="accessibility_service_label">Автоучёт · Автообновление</string>
+    <string name="accessibility_service_description">Только в режиме доверия: открывает и читает страницы операций WeChat / Alipay для получения сумм и баланса. Другие приложения не читаются, данные никуда не отправляются.</string>
+</resources>

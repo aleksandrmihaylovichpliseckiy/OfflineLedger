@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自動記帳</string>
+    <string name="notification_listener_label">自動記帳 · 通知解析</string>
+    <string name="notification_listener_description">WeChat / Alipay の支払い通知のみを読み取ります</string>
+    <string name="accessibility_service_label">自動記帳 · 自動更新</string>
+    <string name="accessibility_service_description">信頼モードでのみ使用：WeChat / Alipay の明細ページを開いて取引と残高を読み取ります。他のアプリの内容は読まず、外部送信もしません。</string>
+</resources>

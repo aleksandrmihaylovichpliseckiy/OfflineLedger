@@ -1,0 +1,7 @@
+{
+ "手动记账的流水会同步增减对应账户余额": "Manual transactions now adjust the corresponding account balance",
+ "编辑或删除手动流水时，会自动回退旧金额对余额的影响，避免重复加减": "Editing or deleting a manual transaction rolls back the previous balance change to avoid double counting",
+ "手动记账与读取到的银行短信余额冲突时，以银行短信余额为准": "If a manual balance change conflicts with a bank SMS balance, the bank SMS balance wins",
+ "旧版本已存在的手动流水不追溯调整余额，避免与历史短信余额重复计算": "Manual transactions created before this version are not applied to balances retroactively, to avoid double counting with historical SMS balances",
+ "更新日志 · v1.2.2-beta": "Changelog · v1.2.2-beta"
+}

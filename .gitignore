@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/build
+
+# signing secrets / temporary outputs
+/dist/*.jks
+/dist/*.idsig
+/dist/签名说明.txt
+/dist/OfflineLedger-1.2.2-beta.apk
+
+# internal contracts
+CONTRACT*.md

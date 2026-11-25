@@ -1,0 +1,14 @@
+{
+ "上次成功修正：已修正 %1$d 个账户余额，跳过 %2$d 个": "Last successful correction: updated %1$d account balances, skipped %2$d",
+ "余额修正": "Balance correction",
+ "余额修正失败：%1$s": "Balance correction failed: %1$s",
+ "已修正 %1$d 个账户余额，跳过 %2$d 个": "Updated %1$d account balances, skipped %2$d",
+ "扩充银行短信余额识别格式（可用余额 / 当前余额 / 余额为人民币 / 余额约等）": "Expanded bank SMS balance formats (available balance / current balance / balance in RMB / approximate balance)",
+ "新增“余额修正”：读取每个账户最后一条带余额的流水，用短信中的余额修正账户余额": "Added “Balance correction”: reads the last transaction with a balance for each account and corrects the stored balance using the SMS balance",
+ "更新日志 · v1.2.3-beta": "Changelog · v1.2.3-beta",
+ "更新日志改为累计展示，保留历史版本的更新内容": "Changelog now keeps the history of previous versions",
+ "正在修正…": "Correcting…",
+ "版本升级自动保留账户、流水与手动修正，并在升级前备份上一版本数据库": "Version upgrades preserve accounts, transactions and manual corrections, and back up the previous database before upgrading",
+ "读取每个账户最后一条带余额的流水，把账户余额修正为短信中记录的余额；没有余额信息的账户会跳过。": "Reads the last transaction with a balance for each account and corrects the account balance to the SMS-recorded balance; accounts without balance information are skipped.",
+ "隐私模式：可手动开启反截屏": "Privacy mode: manually enable screenshot blocking"
+}

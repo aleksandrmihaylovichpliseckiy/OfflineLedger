@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 使用平台 Material 主题避免额外依赖；Compose 内部再套 M3 主题。 -->
+    <style name="Theme.OfflineLedger" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ledger_background</item>
+        <item name="android:statusBarColor">@color/ledger_background</item>
+        <item name="android:navigationBarColor">@color/ledger_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

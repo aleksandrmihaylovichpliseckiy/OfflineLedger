@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 报表通知相关文案（报表正文由 ReportFormatter 生成纯文本，不走资源）。 -->
+<resources>
+    <!-- 通知渠道名称 -->
+    <string name="report_channel_name">账本报表</string>
+    <!-- 通知渠道描述，对应日报 / 周报 / 月报 -->
+    <string name="report_channel_description">日报 / 周报 / 月报</string>
+    <!-- 通知标题：自动记账 · 日报 -->
+    <string name="report_notification_title">自动记账 · %1$s</string>
+    <!-- 通知内容摘要：支出 ¥128.50 · 收入 ¥0.00 -->
+    <string name="report_notification_summary">支出 %1$s · 收入 %2$s</string>
+</resources>
